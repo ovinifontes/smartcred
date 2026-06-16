@@ -1,0 +1,18 @@
+# Material de trabalho — nunca vai para a imagem
+references/
+
+# Git e metadados
+.git
+.gitignore
+.github
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Logs e temporários
+*.log
+
+# Arquivos do próprio build
+Dockerfile
+.dockerignore
